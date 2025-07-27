@@ -1,0 +1,2 @@
+# DiricApplicationBot-
+Script Bot DiricApplicationBot 
